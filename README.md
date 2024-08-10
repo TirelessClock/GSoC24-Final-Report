@@ -6,4 +6,4 @@
 
 ## Abstract
 
-For GSoC'24, my project `Implementing XGBoost` was approved by mlpack. In this project, I aimed to implement the popular XGBoost algorithm inside mlpack.
+For GSoC'24, my project `Implementing XGBoost` was approved by mlpack. In this project, I aimed to implement the popular XGBoost and Gradient Boosting algorithms inside mlpack. 
