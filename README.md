@@ -6,4 +6,12 @@
 
 ## Abstract
 
-For GSoC'24, my project `Implementing XGBoost` was approved by mlpack. In this project, I aimed to implement the popular XGBoost and Gradient Boosting algorithms inside mlpack. 
+For GSoC'24, my project `Implementing XGBoost` was approved by mlpack. XGBoost (by Tianqi Chen et al.), short for eXtreme Gradient Boosting, became famous for its efficiency and speed, gaining traction for its performance in hackathons and ML competitive circles. As the name indicates, XGBoost was built on the Gradient Boosting framework, providing a number of additional features that optimised its performance.
+
+## Goal
+
+The goal of this project was to finish the XGBoost implementation inside of mlpack. Additionally, I aimed at implementing the Gradient Boosting algorithm, as well as make any relevant improvements on the mlpack's tree ensemble.
+
+## Result
+
+A fully functional `XGBoost` and `GradBoosting` classes were implemented and thoroughly tested. Built an `XGBTree` class as a 
