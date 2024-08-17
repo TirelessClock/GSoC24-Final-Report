@@ -10,7 +10,7 @@ For GSoC'24, my project `Implementing XGBoost` was approved by mlpack. XGBoost (
 
 ## Goal
 
-The goal of this project was to finish the XGBoost implementation inside of mlpack. Additionally, I aimed at implementing the Gradient Boosting algorithm, as well as make any relevant improvements on the mlpack's tree ensemble.
+The goal of this project was to finish the XGBoost implementation inside of mlpack. Additionally, I aimed at implementing the Gradient Boosting algorithm, and make any relevant improvements on the mlpack's tree ensemble.
 
 ## Result
 
